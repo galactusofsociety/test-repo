@@ -1,1 +1,4 @@
 hello hello i am here 1 line of ghub repo
+
+git push -u origin master ===== this is used so that after when you use git push only so that anything that is pushed to master is directly to 
+pushed to remote origin repository 
